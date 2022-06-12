@@ -1,5 +1,13 @@
 # weather-or-not
 
+While I had a lot more time to dedicate to this challenge, I didn't get as far as I'd like. In particular, this looks like trash. I'll be the first to admit it. But I got nearly every other important component either finished or started. I'm honestly pretty proud of how far I got in this one with pretty minimal help. While I'm never opposed to assitance, I'm aiming to be independently knowledgable about this stuff, and I feel like I really got a step closer to that goal with this challenge. :)
+
+# Screenshots
+
+![Screen1](https://github.com/xiov91/weather-or-not/blob/main/assets/images/screenshot1.png)
+![Screen2](https://github.com/xiov91/weather-or-not/blob/main/assets/images/screenshot2.png)
+
+# Acceptance Criteria
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
